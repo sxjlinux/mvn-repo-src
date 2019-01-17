@@ -13,6 +13,7 @@
         <module>path</module>
         <module>mssql</module>
         <module>utility</module>
+        <module>ftp</module>
     </modules>
     <dependencies>
         <dependency>

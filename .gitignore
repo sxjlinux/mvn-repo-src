@@ -1,0 +1,12 @@
+.idea/
+target
+ftp/target
+ftp/ftp.iml
+log/target
+log/ftp.iml
+mssql/target
+mssql/ftp.iml
+path/target
+path/ftp.iml
+utility/target
+utility/ftp.iml
